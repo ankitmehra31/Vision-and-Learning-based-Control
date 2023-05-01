@@ -9,7 +9,8 @@ Requirements
 Installation
     Clone this repository into your catkin workspace:
         cd ~/catkin_ws/src
-        git clone https://github.com/ankitmehra31/camera_cylinder_pbvs.git
+        git clone https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git                      #for turtlebot packages and environment
+        git clone https://github.com/ankitmehra31/Vision-and-Learning-based-Control.git          #for controller code
 Build the package:
     cd ~/catkin_ws
     catkin_make
